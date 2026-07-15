@@ -1,0 +1,101 @@
+Waste_ID,Fabric_Type,Color,Waste_Source,Quantity_kg,Condition,Recyclable,Estimated_Value_INR,CO2_Saving_kg,Recommended_Action
+1,Cotton,White,Garment,28,Clean,Yes,420,11.76,Recycle
+2,Polyester,Black,Fabric Roll,31,Moderate,Yes,465,13.02,Reuse
+3,Silk,Blue,Yarn,34,Damaged,No,510,14.28,Donate
+4,Denim,Red,Cutting Scrap,37,Clean,Yes,555,15.54,Recycle
+5,Wool,Green,Factory Waste,40,Moderate,Yes,600,16.8,Reuse
+6,Linen,Grey,Garment,43,Damaged,No,645,18.06,Donate
+7,Rayon,Yellow,Fabric Roll,46,Clean,Yes,690,19.32,Recycle
+8,Nylon,Brown,Yarn,49,Moderate,Yes,735,20.58,Reuse
+9,Viscose,Pink,Cutting Scrap,52,Damaged,No,780,21.84,Donate
+10,Mixed,Orange,Factory Waste,55,Clean,Yes,825,23.1,Recycle
+11,Cotton,White,Garment,58,Moderate,Yes,870,24.36,Reuse
+12,Polyester,Black,Fabric Roll,61,Damaged,No,915,25.62,Donate
+13,Silk,Blue,Yarn,64,Clean,Yes,960,26.88,Recycle
+14,Denim,Red,Cutting Scrap,67,Moderate,Yes,1005,28.14,Reuse
+15,Wool,Green,Factory Waste,70,Damaged,No,1050,29.4,Donate
+16,Linen,Grey,Garment,73,Clean,Yes,1095,30.66,Recycle
+17,Rayon,Yellow,Fabric Roll,76,Moderate,Yes,1140,31.92,Reuse
+18,Nylon,Brown,Yarn,79,Damaged,No,1185,33.18,Donate
+19,Viscose,Pink,Cutting Scrap,82,Clean,Yes,1230,34.44,Recycle
+20,Mixed,Orange,Factory Waste,85,Moderate,Yes,1275,35.7,Reuse
+21,Cotton,White,Garment,88,Damaged,No,1320,36.96,Donate
+22,Polyester,Black,Fabric Roll,91,Clean,Yes,1365,38.22,Recycle
+23,Silk,Blue,Yarn,94,Moderate,Yes,1410,39.48,Reuse
+24,Denim,Red,Cutting Scrap,97,Damaged,No,1455,40.74,Donate
+25,Wool,Green,Factory Waste,100,Clean,Yes,1500,42,Recycle
+26,Linen,Grey,Garment,103,Moderate,Yes,1545,43.26,Reuse
+27,Rayon,Yellow,Fabric Roll,106,Damaged,No,1590,44.52,Donate
+28,Nylon,Brown,Yarn,109,Clean,Yes,1635,45.78,Recycle
+29,Viscose,Pink,Cutting Scrap,112,Moderate,Yes,1680,47.04,Reuse
+30,Mixed,Orange,Factory Waste,115,Damaged,No,1725,48.3,Donate
+31,Cotton,White,Garment,118,Clean,Yes,1770,49.56,Recycle
+32,Polyester,Black,Fabric Roll,121,Moderate,Yes,1815,50.82,Reuse
+33,Silk,Blue,Yarn,124,Damaged,No,1860,52.08,Donate
+34,Denim,Red,Cutting Scrap,127,Clean,Yes,1905,53.34,Recycle
+35,Wool,Green,Factory Waste,130,Moderate,Yes,1950,54.6,Reuse
+36,Linen,Grey,Garment,133,Damaged,No,1995,55.86,Donate
+37,Rayon,Yellow,Fabric Roll,136,Clean,Yes,2040,57.12,Recycle
+38,Nylon,Brown,Yarn,139,Moderate,Yes,2085,58.38,Reuse
+39,Viscose,Pink,Cutting Scrap,142,Damaged,No,2130,59.64,Donate
+40,Mixed,Orange,Factory Waste,145,Clean,Yes,2175,60.9,Recycle
+41,Cotton,White,Garment,148,Moderate,Yes,2220,62.16,Reuse
+42,Polyester,Black,Fabric Roll,151,Damaged,No,2265,63.42,Donate
+43,Silk,Blue,Yarn,154,Clean,Yes,2310,64.68,Recycle
+44,Denim,Red,Cutting Scrap,157,Moderate,Yes,2355,65.94,Reuse
+45,Wool,Green,Factory Waste,160,Damaged,No,2400,67.2,Donate
+46,Linen,Grey,Garment,163,Clean,Yes,2445,68.46,Recycle
+47,Rayon,Yellow,Fabric Roll,166,Moderate,Yes,2490,69.72,Reuse
+48,Nylon,Brown,Yarn,169,Damaged,No,2535,70.98,Donate
+49,Viscose,Pink,Cutting Scrap,172,Clean,Yes,2580,72.24,Recycle
+50,Mixed,Orange,Factory Waste,175,Moderate,Yes,2625,73.5,Reuse
+51,Cotton,White,Garment,178,Damaged,No,2670,74.76,Donate
+52,Polyester,Black,Fabric Roll,181,Clean,Yes,2715,76.02,Recycle
+53,Silk,Blue,Yarn,184,Moderate,Yes,2760,77.28,Reuse
+54,Denim,Red,Cutting Scrap,187,Damaged,No,2805,78.54,Donate
+55,Wool,Green,Factory Waste,190,Clean,Yes,2850,79.8,Recycle
+56,Linen,Grey,Garment,193,Moderate,Yes,2895,81.06,Reuse
+57,Rayon,Yellow,Fabric Roll,26,Damaged,No,390,10.92,Donate
+58,Nylon,Brown,Yarn,29,Clean,Yes,435,12.18,Recycle
+59,Viscose,Pink,Cutting Scrap,32,Moderate,Yes,480,13.44,Reuse
+60,Mixed,Orange,Factory Waste,35,Damaged,No,525,14.7,Donate
+61,Cotton,White,Garment,38,Clean,Yes,570,15.96,Recycle
+62,Polyester,Black,Fabric Roll,41,Moderate,Yes,615,17.22,Reuse
+63,Silk,Blue,Yarn,44,Damaged,No,660,18.48,Donate
+64,Denim,Red,Cutting Scrap,47,Clean,Yes,705,19.74,Recycle
+65,Wool,Green,Factory Waste,50,Moderate,Yes,750,21,Reuse
+66,Linen,Grey,Garment,53,Damaged,No,795,22.26,Donate
+67,Rayon,Yellow,Fabric Roll,56,Clean,Yes,840,23.52,Recycle
+68,Nylon,Brown,Yarn,59,Moderate,Yes,885,24.78,Reuse
+69,Viscose,Pink,Cutting Scrap,62,Damaged,No,930,26.04,Donate
+70,Mixed,Orange,Factory Waste,65,Clean,Yes,975,27.3,Recycle
+71,Cotton,White,Garment,68,Moderate,Yes,1020,28.56,Reuse
+72,Polyester,Black,Fabric Roll,71,Damaged,No,1065,29.82,Donate
+73,Silk,Blue,Yarn,74,Clean,Yes,1110,31.08,Recycle
+74,Denim,Red,Cutting Scrap,77,Moderate,Yes,1155,32.34,Reuse
+75,Wool,Green,Factory Waste,80,Damaged,No,1200,33.6,Donate
+76,Linen,Grey,Garment,83,Clean,Yes,1245,34.86,Recycle
+77,Rayon,Yellow,Fabric Roll,86,Moderate,Yes,1290,36.12,Reuse
+78,Nylon,Brown,Yarn,89,Damaged,No,1335,37.38,Donate
+79,Viscose,Pink,Cutting Scrap,92,Clean,Yes,1380,38.64,Recycle
+80,Mixed,Orange,Factory Waste,95,Moderate,Yes,1425,39.9,Reuse
+81,Cotton,White,Garment,98,Damaged,No,1470,41.16,Donate
+82,Polyester,Black,Fabric Roll,101,Clean,Yes,1515,42.42,Recycle
+83,Silk,Blue,Yarn,104,Moderate,Yes,1560,43.68,Reuse
+84,Denim,Red,Cutting Scrap,107,Damaged,No,1605,44.94,Donate
+85,Wool,Green,Factory Waste,110,Clean,Yes,1650,46.2,Recycle
+86,Linen,Grey,Garment,113,Moderate,Yes,1695,47.46,Reuse
+87,Rayon,Yellow,Fabric Roll,116,Damaged,No,1740,48.72,Donate
+88,Nylon,Brown,Yarn,119,Clean,Yes,1785,49.98,Recycle
+89,Viscose,Pink,Cutting Scrap,122,Moderate,Yes,1830,51.24,Reuse
+90,Mixed,Orange,Factory Waste,125,Damaged,No,1875,52.5,Donate
+91,Cotton,White,Garment,128,Clean,Yes,1920,53.76,Recycle
+92,Polyester,Black,Fabric Roll,131,Moderate,Yes,1965,55.02,Reuse
+93,Silk,Blue,Yarn,134,Damaged,No,2010,56.28,Donate
+94,Denim,Red,Cutting Scrap,137,Clean,Yes,2055,57.54,Recycle
+95,Wool,Green,Factory Waste,140,Moderate,Yes,2100,58.8,Reuse
+96,Linen,Grey,Garment,143,Damaged,No,2145,60.06,Donate
+97,Rayon,Yellow,Fabric Roll,146,Clean,Yes,2190,61.32,Recycle
+98,Nylon,Brown,Yarn,149,Moderate,Yes,2235,62.58,Reuse
+99,Viscose,Pink,Cutting Scrap,152,Damaged,No,2280,63.84,Donate
+100,Mixed,Orange,Factory Waste,155,Clean,Yes,2325,65.1,Recycle
